@@ -1,2 +1,2 @@
-# CrysisRemasteredImprovementProject
-loose files for mod
+# Crysis-Remastered-Improvement-Project
+ Loose files for mod
